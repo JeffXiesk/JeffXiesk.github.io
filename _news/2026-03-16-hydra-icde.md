@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper *Hydra: Breaking the Global Ordering Barrier in Multi-BFT Consensus* is accepted by **ICDE'2026**.
+Paper *Hydra: Breaking the Global Ordering Barrier in Multi-BFT Consensus* is accepted by **IEEE ICDE'2026**.
